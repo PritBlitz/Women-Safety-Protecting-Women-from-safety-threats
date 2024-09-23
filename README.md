@@ -66,6 +66,12 @@ I would like to express our gratitude to the **CodeEsq Community** for their unw
 
 ---
 
+### License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+---
+
 ### Visuals
 
 #### Indoor Connectivity
