@@ -1,4 +1,4 @@
-# Women-Safety-Protecting-Women-from-safety-threats
+# Women Safety - Protecting Women from safety threats
 
 ## Problem Statement (PS) Number: SIH1605
 
@@ -46,6 +46,23 @@ This simulation presents a practical solution for enhancing workplace safety, pr
 
 - **Faster Response**: Immediate detection of high-risk situations allows for quicker, life-saving interventions.
 - **Empowerment**: Women can feel safer knowing there’s a reliable tool available to assist them when needed.
+
+---
+
+### Hackathon Experience
+
+This project was developed during our participation in **HackerWar 5.0**, the internal hackathon for the **Smart India Hackathon 2024** (SIH). The experience allowed us to refine our solution and collaborate effectively as a team.
+
+**Team Members**:
+
+- [Pritish Biswas](https://github.com/pritish-biswas)
+- [Anubhab Panda](https://github.com/anubhabpanda2003)
+- [Arghya Mukhopadhyay](https://github.com/braoninja79)
+- [Abhijit Bag](https://github.com/AbhijitCoder)
+- [Aruba Ariz](https://github.com/ArubaAriz)
+- [Adiba Arooj](https://github.com/adibaarooj)
+
+I would like to express our gratitude to the **CodeEsq Community** for their unwavering support throughout the development process. Our combined efforts and skills enabled us to build a great project, adding to our collective growth as developers.
 
 ---
 
